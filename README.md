@@ -2,7 +2,7 @@
 * Projeto para o Bootcamp MRV da Digital Innovation One
 
 # Sobre
-* Um jogo onde você comanda um helicóptero e tem que resgatar seus amigos enquanto desvia e destróis seus inimigos
+* Um jogo onde você comanda um helicóptero e tem que resgatar seus amigos enquanto desvia e destrói seus inimigos
 
 # Imagens
 * Menu Inicial:
